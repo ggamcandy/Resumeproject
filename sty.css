@@ -1,0 +1,20 @@
+<style>
+
+ body {
+  background-color:#277BCO;
+}
+
+hr {
+
+  border-style: dotted  none none;
+  border-color: grey;
+  border-width:5px;
+  height: 0px;
+  width: 30%;
+
+}
+
+img {
+  height: 250px;
+  width: 250px;
+}
